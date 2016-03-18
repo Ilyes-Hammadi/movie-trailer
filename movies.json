@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Star Wars",
+    "story_line": "Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the evil Kylo Ren (Adam Driver) and the First Order. When a defector named Finn crash-lands on a desert planet, he meets Rey (Daisy Ridley), a tough scavenger whose droid contains a top-secret map. Together, the… ",
+    "poster_image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE6V0GMSLa8KJH-NazCH9oRHfTNrEjuU1GCsrTcQHozbExJjqgnA",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+    "release_date": "December 14, 2015"
+  },
+  {
+    "title": "Avatar",
+    "story_line": "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington), a paralyzed former",
+    "poster_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2eKy2z_xceU9FUogZuBLew3xp8y9F-sDnfLFiGyc4k1Bz8N5xQw",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+    "release_date": "December 10, 2009"
+  },
+  {
+    "title": "Lord of the Rings",
+    "story_line": "The culmination of nearly 10 years' work and conclusion to Peter Jackson's epic trilogy based on the timeless J.R.R. Tolkien classic, The Lord of the Rings: The Return of the King presents the final confrontation between the forces of good and evil fighting for control of the future of Middle-eart…",
+    "poster_image_url": "http://vignette3.wikia.nocookie.net/lotr/images/7/74/LOTRFOTRmovie.jpg/revision/latest?cb=20150203040819",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=Pki6jbSbXIY",
+    "release_date": "December 1, 2003"
+  },
+  {
+    "title": "Need for Speed",
+    "story_line": "Tobey Marshall (Aaron Paul), a mechanic, races muscle cars in an underground circuit. Struggling to keep his business afloat, he reluctantly partners with wealthy but treacherous Dino Brewster (Dominic Cooper). However, Dino frames Tobey for a crime that sends him to prison. Two years later, Tobey i… ",
+    "poster_image_url": "http://t2.gstatic.com/images?q=tbn:ANd9GcS_hoRU2hxj7QsqhEuwKSGD1e-sm4WuOrgZdLAy3nKMq8yVw-S7",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=e73J71RZRn8",
+    "release_date": "March 12, 2014 "
+  },
+  {
+    "title": "The Dictator",
+    "story_line": "Gen. Aladeen (Sacha Baron Cohen) has ruled the oil-rich North African country of Wadiya since the age of six, when 97 stray bullets and a hand grenade killed his father in a hunting accident. After an assassination attempt takes the life of yet another body-double, Tamir (Ben Kingsley), Aladeen's un…",
+    "poster_image_url": "http://t2.gstatic.com/images?q=tbn:ANd9GcSczZQUA0xBAUjgk-aIsB6G-iQYOn6sA4z3dis12puEPFQdGnkd",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=cYplvwBvGA4",
+    "release_date": "May 16, 2012"
+  }
+]

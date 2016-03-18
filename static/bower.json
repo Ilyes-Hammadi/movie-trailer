@@ -1,0 +1,22 @@
+{
+  "name": "movie web site",
+  "authors": [
+    "ilyes hammadi <hammadiilyesahmed@gmail.com>"
+  ],
+  "description": "movie web site for the full stack nanodegree",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "Materialize": "materialize#^0.97.5"
+  }
+}
