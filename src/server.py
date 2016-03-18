@@ -7,6 +7,12 @@ import webbrowser
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+"""
+                                    >>> HONOR CODE <<<
+The folowing lines of code are from the PROGRAMMING FOUNDATIONS WITH PYTHON Udacity course
+I just maked some refactoring ^^
+"""
+
 # Open the views files
 main_page_html = open('../views/base.html', 'r')
 main_page_content_html = open('../views/body.html', 'r')
@@ -25,8 +31,6 @@ movie_tile_content = movie_tile_content_html.read()
 main_page_html.close()
 main_page_content_html.close()
 movie_tile_content_html.close()
-
-
 
 
 def create_movie_tiles_content(movies):
